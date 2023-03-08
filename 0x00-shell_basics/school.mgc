@@ -1,1 +1,2 @@
 file -C -m school.mgc
+file -m school.mgc <file_path>
